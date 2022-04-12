@@ -11,7 +11,9 @@
 <div
      <caption> Screenshots of the Website(real time)</caption>
      <img src="Screenshot (48).png">
+       <caption>Home Screen</caption>
      <img src="Screenshot (50).png">
      <img src="Screenshot (56).png">
+       <caption> Chat messaging demo </caption>
      <img src="Screenshot (57).png">
 </div>
