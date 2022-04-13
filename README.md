@@ -6,6 +6,7 @@
      <li>Run the chat.py to run on the CLI interface</li>
      <li>Run the app.py to rub on the GUI interface</li>
      <li>You can modify the intents.json file then retrain the model by running train.py</li>
+  <p>Feel free to improve this project</p>
  </ul>
 </p>
 <div
