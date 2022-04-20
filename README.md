@@ -1,4 +1,4 @@
-# KabarakUniveristyChatbot
+# Kabarak Univeristy Chatbot
 <p>
  <ul>
      <li>Install the necessary packages</li>
