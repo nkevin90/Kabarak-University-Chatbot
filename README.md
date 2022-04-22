@@ -1,4 +1,4 @@
-# Kabarak Univeristy Chatbot
+# Univeristy Enquiry Chatbot
 <p>
  <ul>
      <li>Install the necessary packages</li>
