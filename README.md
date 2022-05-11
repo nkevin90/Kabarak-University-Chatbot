@@ -5,7 +5,8 @@
      <li>run the train.py to train on the intents.json file</li>
      <li>Run the chat.py to run on the CLI interface</li>
      <li>Run the app.py to rub on the GUI interface</li>
-     <li>You can modify the intents.json file then retrain the model by running train.py</li>
+     <li>You can modify/edit the intents.json file then retrain the model by running train.py</li>
+  <li>Last step is to run the app.py script which will generate a html link. Follow the link to interact with the project
   <p>Feel free to improve this project</p>
  </ul>
 </p>
