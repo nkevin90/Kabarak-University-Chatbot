@@ -1,4 +1,4 @@
-# Univeristy Enquiry Chatbot
+# Campus Enquiry Chatbot
 <p>
  <ul>
      <li>Install the necessary packages and dependancies</li>
