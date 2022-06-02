@@ -1,4 +1,4 @@
-# Campus Enquiry Chatbot🗨️🗣️
+#University Enquiry Chatbot (using NLP)🗨️🗣️
 <p>
  <ul>
      <li>Install the necessary packages and dependancies</li>
