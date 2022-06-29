@@ -5,11 +5,14 @@ from chat import get_response
 
 app= Flask(__name__)
 
-@app.get("/")
+## Flask has no attribute get or post
+## @app.get("/")
+@app.route("/", methods=["GET"])
 def index_get():
     return render_template("base.html")
 
-@app.post("/predict")
+## @app.post("/predict")
+@app.route("/predict", methods=["POST"])
 def predict():
     text= request.get_json().get("message")
     response=get_response(text)
