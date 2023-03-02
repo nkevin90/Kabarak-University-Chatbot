@@ -12,13 +12,13 @@
 </p>
 <div
      <caption> Screenshots of the Website(real time)</caption>
-     <img src="Screenshot (48).png">
+     <img src="Screenshots/Screenshot (48).png">
        <caption>Home Screen</caption>
-     <img src="Screenshot (50).png">
+     <img src="Screenshots/Screenshot (50).png">
      <caption> Interacting with the Chatbot GUI </caption>
-     <img src="Screenshot (56).png">
+     <img src="Screenshots/Screenshot (56).png">
        <caption> Chat messaging demo </caption>
-     <img src="Screenshot (57).png">
+     <img src="Screenshots/Screenshot (57).png">
 </div>
 
 Credits To Ann Muli On the Website Interface
